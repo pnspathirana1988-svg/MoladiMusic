@@ -1,0 +1,6 @@
+{
+  "name": "VibeStream",
+  "description": "Spotify-style music streaming app with offline downloads, playlists, folders, AI music studio, and subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
